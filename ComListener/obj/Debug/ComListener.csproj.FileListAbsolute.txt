@@ -1,0 +1,7 @@
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\bin\Debug\ComListener.exe.config
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\bin\Debug\ComListener.exe
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\bin\Debug\ComListener.pdb
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\obj\Debug\ComListener.Properties.Resources.resources
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\obj\Debug\ComListener.csproj.GenerateResource.Cache
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\obj\Debug\ComListener.exe
+C:\Users\Olaf\Desktop\Projekty\COM_LISTENER\software\trunk\ComListener\ComListener\obj\Debug\ComListener.pdb
